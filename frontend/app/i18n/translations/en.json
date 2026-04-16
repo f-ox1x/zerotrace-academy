@@ -1,0 +1,135 @@
+{
+    "common": {
+        "home": "Home",
+        "courses": "Courses",
+        "labs": "Labs",
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "admin": "Admin Panel",
+        "getStarted": "Get Started",
+        "exploreCourses": "Explore Courses",
+        "learnMore": "Learn More"
+    },
+    "hero": {
+        "badge": "Start Your Journey Today",
+        "title": "ZeroTrace Academy",
+        "subtitle": "Master Cybersecurity",
+        "description": "From beginner to professional. Learn ethical hacking, penetration testing, and security fundamentals with our hands-on courses and labs."
+    },
+    "stats": {
+        "students": "Students",
+        "courses": "Courses",
+        "labs": "Labs",
+        "successRate": "Success Rate"
+    },
+    "features": {
+        "title": "Why Choose ZeroTrace?",
+        "subtitle": "We provide everything you need to start your cybersecurity career",
+        "labs": {
+            "title": "Hands-on Labs",
+            "description": "Real-world scenarios with practical exercises"
+        },
+        "instructors": {
+            "title": "Expert Instructors",
+            "description": "Learn from industry professionals"
+        },
+        "certificates": {
+            "title": "Verified Certificates",
+            "description": "Get blockchain-verified certificates"
+        },
+        "community": {
+            "title": "Community Support",
+            "description": "Join our global cybersecurity community"
+        }
+    },
+    "learningPaths": {
+        "title": "Your Learning Path",
+        "subtitle": "Structured curriculum from zero to hero",
+        "beginner": {
+            "level": "Beginner",
+            "title": "Linux & Networking",
+            "duration": "40 hours"
+        },
+        "intermediate": {
+            "level": "Intermediate",
+            "title": "Web Hacking",
+            "duration": "60 hours"
+        },
+        "advanced": {
+            "level": "Advanced",
+            "title": "Exploitation",
+            "duration": "80 hours"
+        }
+    },
+    "cta": {
+        "title": "Ready to Start Your Journey?",
+        "description": "Join thousands of students who have launched their cybersecurity careers with ZeroTrace",
+        "button": "Join ZeroTrace Now"
+    },
+    "login": {
+        "title": "Welcome Back",
+        "subtitle": "Login to access your dashboard",
+        "email": "Email Address",
+        "password": "Password",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot password?",
+        "noAccount": "Don't have an account?",
+        "signUp": "Sign up",
+        "orContinueWith": "Or continue with",
+        "loginButton": "Sign In"
+    },
+    "register": {
+        "title": "Create an Account",
+        "subtitle": "Join thousands of learners",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "agreeToTerms": "I agree to the Terms and Conditions",
+        "haveAccount": "Already have an account?",
+        "signIn": "Sign in",
+        "registerButton": "Create Account"
+    },
+    "dashboard": {
+        "welcome": "Welcome back",
+        "yourProgress": "Your Progress",
+        "continueLearning": "Continue Learning",
+        "completedCourses": "Completed Courses",
+        "certificates": "Certificates",
+        "hoursLearned": "Hours Learned"
+    },
+    "courses": {
+        "title": "Our Courses",
+        "subtitle": "Choose the right path for your level",
+        "filterAll": "All",
+        "filterBeginner": "Beginner",
+        "filterIntermediate": "Intermediate",
+        "filterAdvanced": "Advanced",
+        "startCourse": "Start Course",
+        "continue": "Continue",
+        "completed": "Completed"
+    },
+    "labs": {
+        "title": "Hands-on Labs",
+        "subtitle": "Practice with real-world scenarios",
+        "difficulty": "Difficulty",
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard",
+        "startLab": "Start Lab",
+        "inProgress": "In Progress",
+        "completed": "Completed"
+    },
+    "certificate": {
+        "title": "Request Certificate",
+        "subtitle": "Complete the path and get a certified certificate",
+        "selectCourse": "Select Course",
+        "uploadId": "Upload ID Card",
+        "paymentMethod": "Payment Method",
+        "submitRequest": "Submit Request",
+        "status": "Request Status"
+    }
+}

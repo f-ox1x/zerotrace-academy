@@ -1,0 +1,135 @@
+{
+    "common": {
+        "home": "الرئيسية",
+        "courses": "الدورات",
+        "labs": "المختبرات",
+        "dashboard": "لوحة التحكم",
+        "login": "تسجيل الدخول",
+        "register": "إنشاء حساب",
+        "logout": "تسجيل الخروج",
+        "admin": "لوحة الأدمن",
+        "getStarted": "ابدأ الآن",
+        "exploreCourses": "استكشف الدورات",
+        "learnMore": "اعرف المزيد"
+    },
+    "hero": {
+        "badge": "ابدأ رحلتك اليوم",
+        "title": "ZeroTrace Academy",
+        "subtitle": "اتقن الأمن السيبراني",
+        "description": "من مبتدئ إلى محترف. تعلم الاختراق الأخلاقي واختبار الاختراق وأساسيات الأمان من خلال دوراتنا ومختبراتنا العملية."
+    },
+    "stats": {
+        "students": "طلاب",
+        "courses": "دورات",
+        "labs": "مختبرات",
+        "successRate": "نسبة النجاح"
+    },
+    "features": {
+        "title": "لماذا تختار ZeroTrace؟",
+        "subtitle": "نوفر لك كل ما تحتاجه لبدء مسيرتك في الأمن السيبراني",
+        "labs": {
+            "title": "مختبرات عملية",
+            "description": "سيناريوهات واقعية مع تمارين عملية"
+        },
+        "instructors": {
+            "title": "خبراء محترفون",
+            "description": "تعلم من محترفي الصناعة"
+        },
+        "certificates": {
+            "title": "شهادات موثقة",
+            "description": "احصل على شهادات موثقة بالبلوكشين"
+        },
+        "community": {
+            "title": "دعم المجتمع",
+            "description": "انضم إلى مجتمع الأمن السيبراني العالمي"
+        }
+    },
+    "learningPaths": {
+        "title": "مسار التعلم الخاص بك",
+        "subtitle": "منهج منظم من الصفر إلى الاحتراف",
+        "beginner": {
+            "level": "مبتدئ",
+            "title": "لينكس والشبكات",
+            "duration": "40 ساعة"
+        },
+        "intermediate": {
+            "level": "متوسط",
+            "title": "اختراق الويب",
+            "duration": "60 ساعة"
+        },
+        "advanced": {
+            "level": "متقدم",
+            "title": "الاستغلال المتقدم",
+            "duration": "80 ساعة"
+        }
+    },
+    "cta": {
+        "title": "جاهز لبدء رحلتك؟",
+        "description": "انضم إلى آلاف الطلاب الذين بدأوا مسيرتهم في الأمن السيبراني مع ZeroTrace",
+        "button": "انضم إلى ZeroTrace الآن"
+    },
+    "login": {
+        "title": "مرحباً بعودتك",
+        "subtitle": "سجل الدخول للوصول إلى لوحة التحكم",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "rememberMe": "تذكرني",
+        "forgotPassword": "نسيت كلمة المرور؟",
+        "noAccount": "ليس لديك حساب؟",
+        "signUp": "إنشاء حساب",
+        "orContinueWith": "أو تابع باستخدام",
+        "loginButton": "تسجيل الدخول"
+    },
+    "register": {
+        "title": "إنشاء حساب جديد",
+        "subtitle": "انضم إلى آلاف المتعلمين",
+        "fullName": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "agreeToTerms": "أوافق على الشروط والأحكام",
+        "haveAccount": "لديك حساب بالفعل؟",
+        "signIn": "تسجيل الدخول",
+        "registerButton": "إنشاء حساب"
+    },
+    "dashboard": {
+        "welcome": "مرحباً",
+        "yourProgress": "تقدمك",
+        "continueLearning": "استمر في التعلم",
+        "completedCourses": "الدورات المكتملة",
+        "certificates": "الشهادات",
+        "hoursLearned": "ساعات التعلم"
+    },
+    "courses": {
+        "title": "دوراتنا",
+        "subtitle": "اختر المسار المناسب لمستواك",
+        "filterAll": "الكل",
+        "filterBeginner": "مبتدئ",
+        "filterIntermediate": "متوسط",
+        "filterAdvanced": "متقدم",
+        "startCourse": "ابدأ الدورة",
+        "continue": "استمرار",
+        "completed": "مكتمل"
+    },
+    "labs": {
+        "title": "المختبرات العملية",
+        "subtitle": "تدرب على سيناريوهات واقعية",
+        "difficulty": "الصعوبة",
+        "easy": "سهل",
+        "medium": "متوسط",
+        "hard": "صعب",
+        "startLab": "ابدأ المختبر",
+        "inProgress": "قيد التقدم",
+        "completed": "مكتمل"
+    },
+    "certificate": {
+        "title": "طلب شهادة",
+        "subtitle": "أكمل المسار واحصل على شهادة معتمدة",
+        "selectCourse": "اختر المسار",
+        "uploadId": "رفع صورة البطاقة الشخصية",
+        "paymentMethod": "طريقة الدفع",
+        "submitRequest": "إرسال الطلب",
+        "status": "حالة الطلب"
+    }
+}
